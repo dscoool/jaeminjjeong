@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Introduction
 
-You can use the [editor on GitHub](https://github.com/dscoool/jaeminjjeong/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<!-- wp:paragraph -->
+<p>Jaemin Jeong received his MSc. from City University of London (2018) and B.S from Seoul National University (2010). He was a System Integration Consultant clients including Korea Development Bank and Korea Broadcast Advertising Corporation, etc. </p>
+<!-- /wp:paragraph -->
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!-- wp:paragraph -->
+<p>He is an instructor of AI Research Center at GIST (Gwangju Institute of Science and Technology). His  interests and industrial projects include:</p>
+<!-- /wp:paragraph -->
 
 ### Markdown
 
